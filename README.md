@@ -16,7 +16,7 @@
   
   <a href="#overview">Overview</a> •
   <a href="#why-this-matters">Why This Matters</a> •
-  <a href="#getting-started">Getting Started</a> •
+  <a href="#getting-started">Getting Started</a> •  
   <a href="#how-it-works">How It Works</a> •
   <a href="#usage-examples">Usage</a> •
   <a href="#security">Security</a> •
